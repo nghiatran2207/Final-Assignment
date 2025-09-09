@@ -43,7 +43,7 @@ The dataset for this project was sourced from public data from Kaggle.
 
 ## Tools Applied
 
-This analysis was performed using **Python** for ETL and **PowerBI** for visualization.
+This analysis was performed using **PowerBI** for ETL and visualization.
 
 ---
 
