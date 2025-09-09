@@ -48,5 +48,12 @@ This analysis was performed using **Python** for ETL and **PowerBI** for visuali
 ---
 
 ## Key Insights Discovered
+- Jacket is the most-selling product and the most contributing to the revenue in terms of Male, while for Female, best selling item is Sweater.
+- Both genders are attracted to promotion. Whereas, only females' shopping habits are affected by the seasonal factor.
+- Aisle and End-Cap are the most selling positions in the store.
 
+---
 
+## Recommendations
+- Reallocate the product and price to the appropriate positions.
+- Release more promotions for low-selling products, especially for females.
